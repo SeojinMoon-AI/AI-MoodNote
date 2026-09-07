@@ -1,6 +1,6 @@
 # MoodNote
 
-일기와 음성 기록을 기반으로 감정을 분석하고, AI가 맞춤 상담 피드백을 제공하는 감성 저널링 앱
+일기와 음성 기록을 기반으로 감정을 분석하고, AI가 맞춤 상담 피드백을 제공하는 감성 저널링 앱<br>
 An AI-powered emotional journaling app that analyzes diary and voice entries, then provides personalized counseling feedback.
 
 ---
