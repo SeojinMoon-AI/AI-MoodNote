@@ -9,7 +9,7 @@
 
 | 회로도 (Full Schematic) | 3D PCB 완성 프리뷰 |
 | :---: | :---: |
-| Hardware/EasyEDA-Custom-PCB/images/01_schematic_v1.png | <img width="2160" height="1673" alt="02_pcb_3d_render" src="https://github.com/user-attachments/assets/5a1b0fbc-33ec-4706-96dc-12a820393632" /> |
+| <img width="2362" height="1672" alt="01_schematic_v1" src="https://github.com/user-attachments/assets/5598b3ec-67d6-4693-a7be-f52c62997a06" /> | <img width="2160" height="1673" alt="02_pcb_3d_render" src="https://github.com/user-attachments/assets/5a1b0fbc-33ec-4706-96dc-12a820393632" /> |
 
 | 2D 라우팅 및 풋프린트 배치 | Top Layer GND Copper Pour | Bottom Layer GND Copper Pour |
 | :---: | :---: | :---: |
